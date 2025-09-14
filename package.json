@@ -1,0 +1,14 @@
+{
+  "name": "weather-remix",
+  "version": "1.0.0",
+  "description": "Your all-in-one weather and lifestyle companion.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.0.0"
+  }
+}
